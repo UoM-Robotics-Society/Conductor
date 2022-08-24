@@ -1,0 +1,397 @@
+100:Bars:Beats:Ticks:04:01:000:2880::NoteOn chan: 1 note: 42 vol: 83 dur: 960
+115:Bars:Beats:Ticks:05:01:000:3840::NoteOff chan: 1 note: 42
+198:Bars:Beats:Ticks:27:01:000:24960::NoteOn chan: 1 note: 42 vol: 83 dur: 960
+218:Bars:Beats:Ticks:28:01:000:25920::NoteOff chan: 1 note: 42
+219:Bars:Beats:Ticks:28:01:000:25920::NoteOn chan: 1 note: 48 vol: 85 dur: 240
+220:Bars:Beats:Ticks:28:02:000:26160::NoteOff chan: 1 note: 48
+221:Bars:Beats:Ticks:28:02:000:26160::NoteOn chan: 1 note: 48 vol: 81 dur: 240
+222:Bars:Beats:Ticks:28:03:000:26400::NoteOff chan: 1 note: 48
+223:Bars:Beats:Ticks:28:03:000:26400::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+224:Bars:Beats:Ticks:28:04:000:26640::NoteOff chan: 1 note: 50
+225:Bars:Beats:Ticks:28:04:000:26640::NoteOn chan: 1 note: 47 vol: 81 dur: 360
+226:Bars:Beats:Ticks:29:01:120:27000::NoteOff chan: 1 note: 47
+227:Bars:Beats:Ticks:29:01:120:27000::NoteOn chan: 1 note: 48 vol: 80 dur: 90
+228:Bars:Beats:Ticks:29:01:210:27090::NoteOff chan: 1 note: 48
+229:Bars:Beats:Ticks:29:02:000:27120::NoteOn chan: 1 note: 50 vol: 81 dur: 240
+230:Bars:Beats:Ticks:29:03:000:27360::NoteOff chan: 1 note: 50
+231:Bars:Beats:Ticks:29:03:000:27360::NoteOn chan: 1 note: 52 vol: 83 dur: 240
+232:Bars:Beats:Ticks:29:04:000:27600::NoteOff chan: 1 note: 52
+233:Bars:Beats:Ticks:29:04:000:27600::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+234:Bars:Beats:Ticks:30:01:000:27840::NoteOff chan: 1 note: 52
+235:Bars:Beats:Ticks:30:01:000:27840::NoteOn chan: 1 note: 53 vol: 85 dur: 240
+236:Bars:Beats:Ticks:30:02:000:28080::NoteOff chan: 1 note: 53
+237:Bars:Beats:Ticks:30:02:000:28080::NoteOn chan: 1 note: 52 vol: 81 dur: 360
+238:Bars:Beats:Ticks:30:03:120:28440::NoteOff chan: 1 note: 52
+239:Bars:Beats:Ticks:30:03:120:28440::NoteOn chan: 1 note: 50 vol: 80 dur: 90
+240:Bars:Beats:Ticks:30:03:210:28530::NoteOff chan: 1 note: 50
+241:Bars:Beats:Ticks:30:04:000:28560::NoteOn chan: 1 note: 48 vol: 81 dur: 240
+242:Bars:Beats:Ticks:31:01:000:28800::NoteOff chan: 1 note: 48
+243:Bars:Beats:Ticks:31:01:000:28800::NoteOn chan: 1 note: 50 vol: 85 dur: 240
+244:Bars:Beats:Ticks:31:02:000:29040::NoteOff chan: 1 note: 50
+245:Bars:Beats:Ticks:31:02:000:29040::NoteOn chan: 1 note: 48 vol: 81 dur: 240
+246:Bars:Beats:Ticks:31:03:000:29280::NoteOff chan: 1 note: 48
+247:Bars:Beats:Ticks:31:03:000:29280::NoteOn chan: 1 note: 47 vol: 83 dur: 240
+248:Bars:Beats:Ticks:31:04:000:29520::NoteOff chan: 1 note: 47
+249:Bars:Beats:Ticks:31:04:000:29520::NoteOn chan: 1 note: 48 vol: 81 dur: 240
+250:Bars:Beats:Ticks:32:01:000:29760::NoteOff chan: 1 note: 48
+251:Bars:Beats:Ticks:32:01:000:29760::NoteOn chan: 1 note: 48 vol: 85 dur: 120
+252:Bars:Beats:Ticks:32:01:120:29880::NoteOff chan: 1 note: 48
+253:Bars:Beats:Ticks:32:01:120:29880::NoteOn chan: 1 note: 50 vol: 80 dur: 90
+254:Bars:Beats:Ticks:32:01:210:29970::NoteOff chan: 1 note: 50
+255:Bars:Beats:Ticks:32:02:000:30000::NoteOn chan: 1 note: 52 vol: 81 dur: 90
+256:Bars:Beats:Ticks:32:02:090:30090::NoteOff chan: 1 note: 52
+257:Bars:Beats:Ticks:32:02:120:30120::NoteOn chan: 1 note: 53 vol: 80 dur: 90
+258:Bars:Beats:Ticks:32:02:210:30210::NoteOff chan: 1 note: 53
+259:Bars:Beats:Ticks:32:03:000:30240::NoteOn chan: 1 note: 55 vol: 83 dur: 240
+260:Bars:Beats:Ticks:32:04:000:30480::NoteOff chan: 1 note: 55
+261:Bars:Beats:Ticks:32:04:000:30480::NoteOn chan: 1 note: 55 vol: 81 dur: 240
+262:Bars:Beats:Ticks:33:01:000:30720::NoteOff chan: 1 note: 55
+263:Bars:Beats:Ticks:33:01:000:30720::NoteOn chan: 1 note: 55 vol: 85 dur: 240
+264:Bars:Beats:Ticks:33:02:000:30960::NoteOff chan: 1 note: 55
+265:Bars:Beats:Ticks:33:02:000:30960::NoteOn chan: 1 note: 55 vol: 81 dur: 360
+266:Bars:Beats:Ticks:33:03:120:31320::NoteOff chan: 1 note: 55
+267:Bars:Beats:Ticks:33:03:120:31320::NoteOn chan: 1 note: 53 vol: 80 dur: 90
+268:Bars:Beats:Ticks:33:03:210:31410::NoteOff chan: 1 note: 53
+269:Bars:Beats:Ticks:33:04:000:31440::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+270:Bars:Beats:Ticks:34:01:000:31680::NoteOff chan: 1 note: 52
+271:Bars:Beats:Ticks:34:01:000:31680::NoteOn chan: 1 note: 53 vol: 85 dur: 240
+272:Bars:Beats:Ticks:34:02:000:31920::NoteOff chan: 1 note: 53
+273:Bars:Beats:Ticks:34:02:000:31920::NoteOn chan: 1 note: 53 vol: 81 dur: 240
+274:Bars:Beats:Ticks:34:03:000:32160::NoteOff chan: 1 note: 53
+275:Bars:Beats:Ticks:34:03:000:32160::NoteOn chan: 1 note: 53 vol: 83 dur: 240
+276:Bars:Beats:Ticks:34:04:000:32400::NoteOff chan: 1 note: 53
+277:Bars:Beats:Ticks:34:04:000:32400::NoteOn chan: 1 note: 53 vol: 81 dur: 360
+278:Bars:Beats:Ticks:35:01:120:32760::NoteOff chan: 1 note: 53
+279:Bars:Beats:Ticks:35:01:120:32760::NoteOn chan: 1 note: 52 vol: 80 dur: 90
+280:Bars:Beats:Ticks:35:01:210:32850::NoteOff chan: 1 note: 52
+281:Bars:Beats:Ticks:35:02:000:32880::NoteOn chan: 1 note: 50 vol: 81 dur: 240
+282:Bars:Beats:Ticks:35:03:000:33120::NoteOff chan: 1 note: 50
+283:Bars:Beats:Ticks:35:03:000:33120::NoteOn chan: 1 note: 52 vol: 83 dur: 240
+284:Bars:Beats:Ticks:35:04:000:33360::NoteOff chan: 1 note: 52
+285:Bars:Beats:Ticks:35:04:000:33360::NoteOn chan: 1 note: 53 vol: 81 dur: 90
+286:Bars:Beats:Ticks:35:04:090:33450::NoteOff chan: 1 note: 53
+287:Bars:Beats:Ticks:35:04:120:33480::NoteOn chan: 1 note: 52 vol: 80 dur: 90
+288:Bars:Beats:Ticks:35:04:210:33570::NoteOff chan: 1 note: 52
+289:Bars:Beats:Ticks:36:01:000:33600::NoteOn chan: 1 note: 50 vol: 85 dur: 120
+290:Bars:Beats:Ticks:36:01:120:33720::NoteOff chan: 1 note: 50
+291:Bars:Beats:Ticks:36:01:120:33720::NoteOn chan: 1 note: 48 vol: 80 dur: 90
+292:Bars:Beats:Ticks:36:01:210:33810::NoteOff chan: 1 note: 48
+293:Bars:Beats:Ticks:36:02:000:33840::NoteOn chan: 1 note: 52 vol: 81 dur: 360
+294:Bars:Beats:Ticks:36:03:120:34200::NoteOff chan: 1 note: 52
+295:Bars:Beats:Ticks:36:03:120:34200::NoteOn chan: 1 note: 53 vol: 80 dur: 90
+296:Bars:Beats:Ticks:36:03:210:34290::NoteOff chan: 1 note: 53
+297:Bars:Beats:Ticks:36:04:000:34320::NoteOn chan: 1 note: 55 vol: 81 dur: 240
+298:Bars:Beats:Ticks:37:01:000:34560::NoteOff chan: 1 note: 55
+299:Bars:Beats:Ticks:37:01:000:34560::NoteOn chan: 1 note: 57 vol: 85 dur: 120
+300:Bars:Beats:Ticks:37:01:120:34680::NoteOff chan: 1 note: 57
+301:Bars:Beats:Ticks:37:01:120:34680::NoteOn chan: 1 note: 53 vol: 80 dur: 90
+302:Bars:Beats:Ticks:37:01:210:34770::NoteOff chan: 1 note: 53
+303:Bars:Beats:Ticks:37:02:000:34800::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+304:Bars:Beats:Ticks:37:03:000:35040::NoteOff chan: 1 note: 52
+305:Bars:Beats:Ticks:37:03:000:35040::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+306:Bars:Beats:Ticks:37:04:000:35280::NoteOff chan: 1 note: 50
+308:Bars:Beats:Ticks:37:04:000:35280::NoteOn chan: 1 note: 48 vol: 81 dur: 720
+331:Bars:Beats:Ticks:38:03:000:36000::NoteOff chan: 1 note: 48
+334:Bars:Beats:Ticks:43:01:000:40320::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+335:Bars:Beats:Ticks:43:02:000:40560::NoteOff chan: 1 note: 36
+336:Bars:Beats:Ticks:43:02:000:40560::NoteOn chan: 1 note: 41 vol: 81 dur: 240
+337:Bars:Beats:Ticks:43:03:000:40800::NoteOff chan: 1 note: 41
+338:Bars:Beats:Ticks:43:03:000:40800::NoteOn chan: 1 note: 38 vol: 83 dur: 240
+339:Bars:Beats:Ticks:43:04:000:41040::NoteOff chan: 1 note: 38
+340:Bars:Beats:Ticks:43:04:000:41040::NoteOn chan: 1 note: 31 vol: 81 dur: 240
+341:Bars:Beats:Ticks:44:01:000:41280::NoteOff chan: 1 note: 31
+342:Bars:Beats:Ticks:44:01:000:41280::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+343:Bars:Beats:Ticks:44:02:000:41520::NoteOff chan: 1 note: 36
+345:Bars:Beats:Ticks:56:01:000:52800::NoteOn chan: 1 note: 52 vol: 85 dur: 240
+346:Bars:Beats:Ticks:56:02:000:53040::NoteOff chan: 1 note: 52
+347:Bars:Beats:Ticks:56:02:000:53040::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+348:Bars:Beats:Ticks:56:03:000:53280::NoteOff chan: 1 note: 52
+349:Bars:Beats:Ticks:56:03:000:53280::NoteOn chan: 1 note: 52 vol: 83 dur: 240
+350:Bars:Beats:Ticks:56:04:000:53520::NoteOff chan: 1 note: 52
+351:Bars:Beats:Ticks:56:04:000:53520::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+352:Bars:Beats:Ticks:57:01:000:53760::NoteOff chan: 1 note: 52
+353:Bars:Beats:Ticks:57:01:000:53760::NoteOn chan: 1 note: 52 vol: 85 dur: 240
+354:Bars:Beats:Ticks:57:02:000:54000::NoteOff chan: 1 note: 52
+355:Bars:Beats:Ticks:57:02:000:54000::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+356:Bars:Beats:Ticks:57:03:000:54240::NoteOff chan: 1 note: 52
+357:Bars:Beats:Ticks:57:03:000:54240::NoteOn chan: 1 note: 52 vol: 83 dur: 240
+358:Bars:Beats:Ticks:57:04:000:54480::NoteOff chan: 1 note: 52
+359:Bars:Beats:Ticks:57:04:000:54480::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+360:Bars:Beats:Ticks:58:01:000:54720::NoteOff chan: 1 note: 52
+361:Bars:Beats:Ticks:58:01:000:54720::NoteOn chan: 1 note: 52 vol: 85 dur: 240
+362:Bars:Beats:Ticks:58:02:000:54960::NoteOff chan: 1 note: 52
+363:Bars:Beats:Ticks:58:02:000:54960::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+364:Bars:Beats:Ticks:58:03:000:55200::NoteOff chan: 1 note: 52
+365:Bars:Beats:Ticks:58:03:000:55200::NoteOn chan: 1 note: 52 vol: 83 dur: 240
+366:Bars:Beats:Ticks:58:04:000:55440::NoteOff chan: 1 note: 52
+367:Bars:Beats:Ticks:58:04:000:55440::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+368:Bars:Beats:Ticks:59:01:000:55680::NoteOff chan: 1 note: 52
+369:Bars:Beats:Ticks:59:01:000:55680::NoteOn chan: 1 note: 52 vol: 85 dur: 240
+370:Bars:Beats:Ticks:59:02:000:55920::NoteOff chan: 1 note: 52
+371:Bars:Beats:Ticks:59:02:000:55920::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+372:Bars:Beats:Ticks:59:03:000:56160::NoteOff chan: 1 note: 52
+373:Bars:Beats:Ticks:59:03:000:56160::NoteOn chan: 1 note: 52 vol: 83 dur: 240
+374:Bars:Beats:Ticks:59:04:000:56400::NoteOff chan: 1 note: 52
+375:Bars:Beats:Ticks:59:04:000:56400::NoteOn chan: 1 note: 52 vol: 81 dur: 240
+376:Bars:Beats:Ticks:60:01:000:56640::NoteOff chan: 1 note: 52
+377:Bars:Beats:Ticks:60:01:000:56640::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+378:Bars:Beats:Ticks:60:02:000:56880::NoteOff chan: 1 note: 36
+379:Bars:Beats:Ticks:60:02:000:56880::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+380:Bars:Beats:Ticks:60:03:000:57120::NoteOff chan: 1 note: 36
+381:Bars:Beats:Ticks:60:03:000:57120::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+382:Bars:Beats:Ticks:60:04:000:57360::NoteOff chan: 1 note: 36
+383:Bars:Beats:Ticks:60:04:000:57360::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+384:Bars:Beats:Ticks:61:01:000:57600::NoteOff chan: 1 note: 36
+385:Bars:Beats:Ticks:61:01:000:57600::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+386:Bars:Beats:Ticks:61:02:000:57840::NoteOff chan: 1 note: 36
+387:Bars:Beats:Ticks:61:02:000:57840::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+388:Bars:Beats:Ticks:61:03:000:58080::NoteOff chan: 1 note: 36
+389:Bars:Beats:Ticks:61:03:000:58080::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+390:Bars:Beats:Ticks:61:04:000:58320::NoteOff chan: 1 note: 36
+391:Bars:Beats:Ticks:61:04:000:58320::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+392:Bars:Beats:Ticks:62:01:000:58560::NoteOff chan: 1 note: 36
+393:Bars:Beats:Ticks:62:01:000:58560::NoteOn chan: 1 note: 33 vol: 85 dur: 240
+394:Bars:Beats:Ticks:62:02:000:58800::NoteOff chan: 1 note: 33
+395:Bars:Beats:Ticks:62:02:000:58800::NoteOn chan: 1 note: 33 vol: 81 dur: 240
+396:Bars:Beats:Ticks:62:03:000:59040::NoteOff chan: 1 note: 33
+397:Bars:Beats:Ticks:62:03:000:59040::NoteOn chan: 1 note: 33 vol: 83 dur: 240
+398:Bars:Beats:Ticks:62:04:000:59280::NoteOff chan: 1 note: 33
+399:Bars:Beats:Ticks:62:04:000:59280::NoteOn chan: 1 note: 33 vol: 81 dur: 240
+400:Bars:Beats:Ticks:63:01:000:59520::NoteOff chan: 1 note: 33
+401:Bars:Beats:Ticks:63:01:000:59520::NoteOn chan: 1 note: 33 vol: 85 dur: 240
+402:Bars:Beats:Ticks:63:02:000:59760::NoteOff chan: 1 note: 33
+403:Bars:Beats:Ticks:63:02:000:59760::NoteOn chan: 1 note: 33 vol: 81 dur: 240
+404:Bars:Beats:Ticks:63:03:000:60000::NoteOff chan: 1 note: 33
+405:Bars:Beats:Ticks:63:03:000:60000::NoteOn chan: 1 note: 29 vol: 83 dur: 240
+406:Bars:Beats:Ticks:63:04:000:60240::NoteOff chan: 1 note: 29
+407:Bars:Beats:Ticks:63:04:000:60240::NoteOn chan: 1 note: 29 vol: 81 dur: 240
+408:Bars:Beats:Ticks:64:01:000:60480::NoteOff chan: 1 note: 29
+409:Bars:Beats:Ticks:64:01:000:60480::NoteOn chan: 1 note: 31 vol: 85 dur: 240
+410:Bars:Beats:Ticks:64:02:000:60720::NoteOff chan: 1 note: 31
+411:Bars:Beats:Ticks:64:02:000:60720::NoteOn chan: 1 note: 31 vol: 81 dur: 240
+412:Bars:Beats:Ticks:64:03:000:60960::NoteOff chan: 1 note: 31
+413:Bars:Beats:Ticks:64:03:000:60960::NoteOn chan: 1 note: 31 vol: 83 dur: 240
+414:Bars:Beats:Ticks:64:04:000:61200::NoteOff chan: 1 note: 31
+415:Bars:Beats:Ticks:64:04:000:61200::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+416:Bars:Beats:Ticks:65:01:000:61440::NoteOff chan: 1 note: 36
+417:Bars:Beats:Ticks:65:01:000:61440::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+418:Bars:Beats:Ticks:65:02:000:61680::NoteOff chan: 1 note: 36
+419:Bars:Beats:Ticks:65:02:000:61680::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+420:Bars:Beats:Ticks:65:03:000:61920::NoteOff chan: 1 note: 36
+421:Bars:Beats:Ticks:65:03:000:61920::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+422:Bars:Beats:Ticks:65:04:000:62160::NoteOff chan: 1 note: 36
+423:Bars:Beats:Ticks:65:04:000:62160::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+424:Bars:Beats:Ticks:66:01:000:62400::NoteOff chan: 1 note: 36
+425:Bars:Beats:Ticks:66:01:000:62400::NoteOn chan: 1 note: 33 vol: 85 dur: 240
+426:Bars:Beats:Ticks:66:02:000:62640::NoteOff chan: 1 note: 33
+427:Bars:Beats:Ticks:66:02:000:62640::NoteOn chan: 1 note: 33 vol: 81 dur: 240
+428:Bars:Beats:Ticks:66:03:000:62880::NoteOff chan: 1 note: 33
+429:Bars:Beats:Ticks:66:03:000:62880::NoteOn chan: 1 note: 33 vol: 83 dur: 240
+430:Bars:Beats:Ticks:66:04:000:63120::NoteOff chan: 1 note: 33
+431:Bars:Beats:Ticks:66:04:000:63120::NoteOn chan: 1 note: 33 vol: 81 dur: 240
+432:Bars:Beats:Ticks:67:01:000:63360::NoteOff chan: 1 note: 33
+433:Bars:Beats:Ticks:67:01:000:63360::NoteOn chan: 1 note: 33 vol: 85 dur: 240
+434:Bars:Beats:Ticks:67:02:000:63600::NoteOff chan: 1 note: 33
+435:Bars:Beats:Ticks:67:02:000:63600::NoteOn chan: 1 note: 33 vol: 81 dur: 240
+436:Bars:Beats:Ticks:67:03:000:63840::NoteOff chan: 1 note: 33
+437:Bars:Beats:Ticks:67:03:000:63840::NoteOn chan: 1 note: 29 vol: 83 dur: 240
+438:Bars:Beats:Ticks:67:04:000:64080::NoteOff chan: 1 note: 29
+439:Bars:Beats:Ticks:67:04:000:64080::NoteOn chan: 1 note: 29 vol: 81 dur: 240
+440:Bars:Beats:Ticks:68:01:000:64320::NoteOff chan: 1 note: 29
+441:Bars:Beats:Ticks:68:01:000:64320::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+442:Bars:Beats:Ticks:68:02:000:64560::NoteOff chan: 1 note: 38
+443:Bars:Beats:Ticks:68:02:000:64560::NoteOn chan: 1 note: 38 vol: 81 dur: 240
+444:Bars:Beats:Ticks:68:03:000:64800::NoteOff chan: 1 note: 38
+445:Bars:Beats:Ticks:68:03:000:64800::NoteOn chan: 1 note: 38 vol: 83 dur: 240
+446:Bars:Beats:Ticks:68:04:000:65040::NoteOff chan: 1 note: 38
+447:Bars:Beats:Ticks:68:04:000:65040::NoteOn chan: 1 note: 38 vol: 81 dur: 240
+448:Bars:Beats:Ticks:69:01:000:65280::NoteOff chan: 1 note: 38
+449:Bars:Beats:Ticks:69:01:000:65280::NoteOn chan: 1 note: 43 vol: 85 dur: 240
+450:Bars:Beats:Ticks:69:02:000:65520::NoteOff chan: 1 note: 43
+451:Bars:Beats:Ticks:69:02:000:65520::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+452:Bars:Beats:Ticks:69:03:000:65760::NoteOff chan: 1 note: 43
+453:Bars:Beats:Ticks:69:03:000:65760::NoteOn chan: 1 note: 43 vol: 83 dur: 240
+454:Bars:Beats:Ticks:69:04:000:66000::NoteOff chan: 1 note: 43
+455:Bars:Beats:Ticks:69:04:000:66000::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+456:Bars:Beats:Ticks:70:01:000:66240::NoteOff chan: 1 note: 43
+457:Bars:Beats:Ticks:70:01:000:66240::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+458:Bars:Beats:Ticks:70:02:000:66480::NoteOff chan: 1 note: 36
+459:Bars:Beats:Ticks:70:02:000:66480::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+460:Bars:Beats:Ticks:70:03:000:66720::NoteOff chan: 1 note: 36
+461:Bars:Beats:Ticks:70:03:000:66720::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+462:Bars:Beats:Ticks:70:04:000:66960::NoteOff chan: 1 note: 36
+463:Bars:Beats:Ticks:70:04:000:66960::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+464:Bars:Beats:Ticks:71:01:000:67200::NoteOff chan: 1 note: 36
+465:Bars:Beats:Ticks:71:01:000:67200::NoteOn chan: 1 note: 33 vol: 85 dur: 240
+466:Bars:Beats:Ticks:71:02:000:67440::NoteOff chan: 1 note: 33
+467:Bars:Beats:Ticks:71:02:000:67440::NoteOn chan: 1 note: 33 vol: 81 dur: 240
+468:Bars:Beats:Ticks:71:03:000:67680::NoteOff chan: 1 note: 33
+469:Bars:Beats:Ticks:71:03:000:67680::NoteOn chan: 1 note: 33 vol: 83 dur: 240
+470:Bars:Beats:Ticks:71:04:000:67920::NoteOff chan: 1 note: 33
+471:Bars:Beats:Ticks:71:04:000:67920::NoteOn chan: 1 note: 33 vol: 81 dur: 240
+472:Bars:Beats:Ticks:72:01:000:68160::NoteOff chan: 1 note: 33
+473:Bars:Beats:Ticks:72:01:000:68160::NoteOn chan: 1 note: 29 vol: 85 dur: 240
+474:Bars:Beats:Ticks:72:02:000:68400::NoteOff chan: 1 note: 29
+475:Bars:Beats:Ticks:72:02:000:68400::NoteOn chan: 1 note: 29 vol: 81 dur: 240
+476:Bars:Beats:Ticks:72:03:000:68640::NoteOff chan: 1 note: 29
+477:Bars:Beats:Ticks:72:03:000:68640::NoteOn chan: 1 note: 41 vol: 83 dur: 240
+478:Bars:Beats:Ticks:72:04:000:68880::NoteOff chan: 1 note: 41
+479:Bars:Beats:Ticks:72:04:000:68880::NoteOn chan: 1 note: 41 vol: 81 dur: 240
+480:Bars:Beats:Ticks:73:01:000:69120::NoteOff chan: 1 note: 41
+481:Bars:Beats:Ticks:73:01:000:69120::NoteOn chan: 1 note: 43 vol: 85 dur: 240
+482:Bars:Beats:Ticks:73:02:000:69360::NoteOff chan: 1 note: 43
+483:Bars:Beats:Ticks:73:02:000:69360::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+484:Bars:Beats:Ticks:73:03:000:69600::NoteOff chan: 1 note: 43
+485:Bars:Beats:Ticks:73:03:000:69600::NoteOn chan: 1 note: 31 vol: 83 dur: 240
+486:Bars:Beats:Ticks:73:04:000:69840::NoteOff chan: 1 note: 31
+487:Bars:Beats:Ticks:73:04:000:69840::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+488:Bars:Beats:Ticks:74:01:000:70080::NoteOff chan: 1 note: 43
+489:Bars:Beats:Ticks:74:01:000:70080::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+490:Bars:Beats:Ticks:74:02:000:70320::NoteOff chan: 1 note: 36
+492:Bars:Beats:Ticks:78:01:000:73920::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+493:Bars:Beats:Ticks:78:02:000:74160::NoteOff chan: 1 note: 36
+494:Bars:Beats:Ticks:78:02:000:74160::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+495:Bars:Beats:Ticks:78:03:000:74400::NoteOff chan: 1 note: 36
+496:Bars:Beats:Ticks:78:03:000:74400::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+497:Bars:Beats:Ticks:78:04:000:74640::NoteOff chan: 1 note: 36
+498:Bars:Beats:Ticks:78:04:000:74640::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+499:Bars:Beats:Ticks:79:01:000:74880::NoteOff chan: 1 note: 36
+500:Bars:Beats:Ticks:79:01:000:74880::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+501:Bars:Beats:Ticks:79:02:000:75120::NoteOff chan: 1 note: 36
+502:Bars:Beats:Ticks:79:02:000:75120::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+503:Bars:Beats:Ticks:79:03:000:75360::NoteOff chan: 1 note: 36
+504:Bars:Beats:Ticks:79:03:000:75360::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+505:Bars:Beats:Ticks:79:04:000:75600::NoteOff chan: 1 note: 36
+506:Bars:Beats:Ticks:79:04:000:75600::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+507:Bars:Beats:Ticks:80:01:000:75840::NoteOff chan: 1 note: 36
+508:Bars:Beats:Ticks:80:01:000:75840::NoteOn chan: 1 note: 43 vol: 85 dur: 240
+509:Bars:Beats:Ticks:80:02:000:76080::NoteOff chan: 1 note: 43
+510:Bars:Beats:Ticks:80:02:000:76080::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+511:Bars:Beats:Ticks:80:03:000:76320::NoteOff chan: 1 note: 43
+512:Bars:Beats:Ticks:80:03:000:76320::NoteOn chan: 1 note: 43 vol: 83 dur: 240
+513:Bars:Beats:Ticks:80:04:000:76560::NoteOff chan: 1 note: 43
+514:Bars:Beats:Ticks:80:04:000:76560::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+515:Bars:Beats:Ticks:81:01:000:76800::NoteOff chan: 1 note: 43
+516:Bars:Beats:Ticks:81:01:000:76800::NoteOn chan: 1 note: 43 vol: 85 dur: 240
+517:Bars:Beats:Ticks:81:02:000:77040::NoteOff chan: 1 note: 43
+518:Bars:Beats:Ticks:81:02:000:77040::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+519:Bars:Beats:Ticks:81:03:000:77280::NoteOff chan: 1 note: 43
+520:Bars:Beats:Ticks:81:03:000:77280::NoteOn chan: 1 note: 43 vol: 83 dur: 240
+521:Bars:Beats:Ticks:81:04:000:77520::NoteOff chan: 1 note: 43
+522:Bars:Beats:Ticks:81:04:000:77520::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+523:Bars:Beats:Ticks:82:01:000:77760::NoteOff chan: 1 note: 43
+524:Bars:Beats:Ticks:82:01:000:77760::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+525:Bars:Beats:Ticks:82:02:000:78000::NoteOff chan: 1 note: 36
+526:Bars:Beats:Ticks:82:02:000:78000::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+527:Bars:Beats:Ticks:82:03:000:78240::NoteOff chan: 1 note: 36
+528:Bars:Beats:Ticks:82:03:000:78240::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+529:Bars:Beats:Ticks:82:04:000:78480::NoteOff chan: 1 note: 36
+530:Bars:Beats:Ticks:82:04:000:78480::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+531:Bars:Beats:Ticks:83:01:000:78720::NoteOff chan: 1 note: 36
+532:Bars:Beats:Ticks:83:01:000:78720::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+533:Bars:Beats:Ticks:83:02:000:78960::NoteOff chan: 1 note: 36
+534:Bars:Beats:Ticks:83:02:000:78960::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+535:Bars:Beats:Ticks:83:03:000:79200::NoteOff chan: 1 note: 36
+536:Bars:Beats:Ticks:83:03:000:79200::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+537:Bars:Beats:Ticks:83:04:000:79440::NoteOff chan: 1 note: 36
+538:Bars:Beats:Ticks:83:04:000:79440::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+539:Bars:Beats:Ticks:84:01:000:79680::NoteOff chan: 1 note: 36
+540:Bars:Beats:Ticks:84:01:000:79680::NoteOn chan: 1 note: 43 vol: 85 dur: 240
+541:Bars:Beats:Ticks:84:02:000:79920::NoteOff chan: 1 note: 43
+542:Bars:Beats:Ticks:84:02:000:79920::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+543:Bars:Beats:Ticks:84:03:000:80160::NoteOff chan: 1 note: 43
+544:Bars:Beats:Ticks:84:03:000:80160::NoteOn chan: 1 note: 43 vol: 83 dur: 240
+545:Bars:Beats:Ticks:84:04:000:80400::NoteOff chan: 1 note: 43
+546:Bars:Beats:Ticks:84:04:000:80400::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+547:Bars:Beats:Ticks:85:01:000:80640::NoteOff chan: 1 note: 43
+548:Bars:Beats:Ticks:85:01:000:80640::NoteOn chan: 1 note: 43 vol: 85 dur: 240
+549:Bars:Beats:Ticks:85:02:000:80880::NoteOff chan: 1 note: 43
+550:Bars:Beats:Ticks:85:02:000:80880::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+551:Bars:Beats:Ticks:85:03:000:81120::NoteOff chan: 1 note: 43
+552:Bars:Beats:Ticks:85:03:000:81120::NoteOn chan: 1 note: 43 vol: 83 dur: 240
+553:Bars:Beats:Ticks:85:04:000:81360::NoteOff chan: 1 note: 43
+554:Bars:Beats:Ticks:85:04:000:81360::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+555:Bars:Beats:Ticks:86:01:000:81600::NoteOff chan: 1 note: 43
+556:Bars:Beats:Ticks:86:01:000:81600::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+557:Bars:Beats:Ticks:86:02:000:81840::NoteOff chan: 1 note: 36
+558:Bars:Beats:Ticks:86:02:000:81840::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+559:Bars:Beats:Ticks:86:03:000:82080::NoteOff chan: 1 note: 36
+560:Bars:Beats:Ticks:86:03:000:82080::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+561:Bars:Beats:Ticks:86:04:000:82320::NoteOff chan: 1 note: 36
+562:Bars:Beats:Ticks:86:04:000:82320::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+563:Bars:Beats:Ticks:87:01:000:82560::NoteOff chan: 1 note: 36
+564:Bars:Beats:Ticks:87:01:000:82560::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+565:Bars:Beats:Ticks:87:02:000:82800::NoteOff chan: 1 note: 36
+566:Bars:Beats:Ticks:87:02:000:82800::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+567:Bars:Beats:Ticks:87:03:000:83040::NoteOff chan: 1 note: 36
+568:Bars:Beats:Ticks:87:03:000:83040::NoteOn chan: 1 note: 36 vol: 83 dur: 240
+569:Bars:Beats:Ticks:87:04:000:83280::NoteOff chan: 1 note: 36
+570:Bars:Beats:Ticks:87:04:000:83280::NoteOn chan: 1 note: 36 vol: 81 dur: 240
+571:Bars:Beats:Ticks:88:01:000:83520::NoteOff chan: 1 note: 36
+573:Bars:Beats:Ticks:90:01:000:85440::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+574:Bars:Beats:Ticks:90:02:000:85680::NoteOff chan: 1 note: 38
+575:Bars:Beats:Ticks:90:03:000:85920::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+576:Bars:Beats:Ticks:90:04:000:86160::NoteOff chan: 1 note: 50
+577:Bars:Beats:Ticks:91:01:000:86400::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+578:Bars:Beats:Ticks:91:02:000:86640::NoteOff chan: 1 note: 38
+580:Bars:Beats:Ticks:91:03:000:86880::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+581:Bars:Beats:Ticks:91:04:000:87120::NoteOff chan: 1 note: 50
+582:Bars:Beats:Ticks:92:01:000:87360::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+583:Bars:Beats:Ticks:92:02:000:87600::NoteOff chan: 1 note: 38
+584:Bars:Beats:Ticks:92:03:000:87840::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+585:Bars:Beats:Ticks:92:04:000:88080::NoteOff chan: 1 note: 50
+587:Bars:Beats:Ticks:93:01:000:88320::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+588:Bars:Beats:Ticks:93:02:000:88560::NoteOff chan: 1 note: 38
+589:Bars:Beats:Ticks:93:03:000:88800::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+590:Bars:Beats:Ticks:93:04:000:89040::NoteOff chan: 1 note: 50
+591:Bars:Beats:Ticks:94:01:000:89280::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+592:Bars:Beats:Ticks:94:02:000:89520::NoteOff chan: 1 note: 38
+594:Bars:Beats:Ticks:94:03:000:89760::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+595:Bars:Beats:Ticks:94:04:000:90000::NoteOff chan: 1 note: 50
+596:Bars:Beats:Ticks:95:01:000:90240::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+597:Bars:Beats:Ticks:95:02:000:90480::NoteOff chan: 1 note: 38
+598:Bars:Beats:Ticks:95:03:000:90720::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+599:Bars:Beats:Ticks:95:04:000:90960::NoteOff chan: 1 note: 50
+601:Bars:Beats:Ticks:96:01:000:91200::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+602:Bars:Beats:Ticks:96:02:000:91440::NoteOff chan: 1 note: 38
+603:Bars:Beats:Ticks:96:03:000:91680::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+604:Bars:Beats:Ticks:96:04:000:91920::NoteOff chan: 1 note: 50
+605:Bars:Beats:Ticks:97:01:000:92160::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+606:Bars:Beats:Ticks:97:02:000:92400::NoteOff chan: 1 note: 38
+608:Bars:Beats:Ticks:97:03:000:92640::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+609:Bars:Beats:Ticks:97:04:000:92880::NoteOff chan: 1 note: 50
+610:Bars:Beats:Ticks:98:01:000:93120::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+611:Bars:Beats:Ticks:98:02:000:93360::NoteOff chan: 1 note: 38
+612:Bars:Beats:Ticks:98:03:000:93600::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+613:Bars:Beats:Ticks:98:04:000:93840::NoteOff chan: 1 note: 50
+615:Bars:Beats:Ticks:99:01:000:94080::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+616:Bars:Beats:Ticks:99:02:000:94320::NoteOff chan: 1 note: 38
+617:Bars:Beats:Ticks:99:03:000:94560::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+618:Bars:Beats:Ticks:99:04:000:94800::NoteOff chan: 1 note: 50
+619:Bars:Beats:Ticks:100:01:000:95040::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+620:Bars:Beats:Ticks:100:02:000:95280::NoteOff chan: 1 note: 38
+622:Bars:Beats:Ticks:100:03:000:95520::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+623:Bars:Beats:Ticks:100:04:000:95760::NoteOff chan: 1 note: 50
+624:Bars:Beats:Ticks:101:01:000:96000::NoteOn chan: 1 note: 38 vol: 85 dur: 240
+625:Bars:Beats:Ticks:101:02:000:96240::NoteOff chan: 1 note: 38
+626:Bars:Beats:Ticks:101:03:000:96480::NoteOn chan: 1 note: 50 vol: 83 dur: 240
+627:Bars:Beats:Ticks:101:04:000:96720::NoteOff chan: 1 note: 50
+629:Bars:Beats:Ticks:102:01:000:96960::NoteOn chan: 1 note: 43 vol: 85 dur: 240
+630:Bars:Beats:Ticks:102:02:000:97200::NoteOff chan: 1 note: 43
+631:Bars:Beats:Ticks:102:02:000:97200::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+632:Bars:Beats:Ticks:102:03:000:97440::NoteOff chan: 1 note: 43
+633:Bars:Beats:Ticks:102:03:000:97440::NoteOn chan: 1 note: 31 vol: 83 dur: 240
+634:Bars:Beats:Ticks:102:04:000:97680::NoteOff chan: 1 note: 31
+635:Bars:Beats:Ticks:102:04:000:97680::NoteOn chan: 1 note: 43 vol: 81 dur: 240
+636:Bars:Beats:Ticks:103:01:000:97920::NoteOff chan: 1 note: 43
+637:Bars:Beats:Ticks:103:01:000:97920::NoteOn chan: 1 note: 36 vol: 85 dur: 240
+638:Bars:Beats:Ticks:103:02:000:98160::NoteOff chan: 1 note: 36
+640:Bars:Beats:Ticks:114:02:000:108720::NoteOn chan: 1 note: 41 vol: 81 dur: 240
+641:Bars:Beats:Ticks:114:03:000:108960::NoteOff chan: 1 note: 41
+642:Bars:Beats:Ticks:114:03:000:108960::NoteOn chan: 1 note: 38 vol: 83 dur: 240
+643:Bars:Beats:Ticks:114:04:000:109200::NoteOff chan: 1 note: 38
+644:Bars:Beats:Ticks:114:04:000:109200::NoteOn chan: 1 note: 31 vol: 81 dur: 180
+645:Bars:Beats:Ticks:114:04:180:109380::NoteOff chan: 1 note: 31
+667:Bars:Beats:Ticks:115:03:000:109920::NoteOn chan: 1 note: 36 vol: 80 dur: 1440
+717:Bars:Beats:Ticks:117:01:000:111360::NoteOff chan: 1 note: 36
+

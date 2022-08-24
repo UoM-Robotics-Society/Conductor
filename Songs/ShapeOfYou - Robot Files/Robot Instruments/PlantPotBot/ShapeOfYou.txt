@@ -1,0 +1,40 @@
+import explorerhat
+from time import sleep
+
+
+#call BeatLeftStick to beat the left stick once, takes ~0.15s to execute
+def BeatLeftStick():
+    explorerhat.motor.two.backward(100)
+    sleep(0.05)
+    explorerhat.motor.two.stop()
+
+    explorerhat.motor.two.forward(100)
+    sleep(0.1)
+    explorerhat.motor.two.stop()
+
+#same as left 
+def BeatRightStick():
+    explorerhat.motor.one.forward(100)
+    sleep(0.05)
+    explorerhat.motor.one.stop()
+    
+    explorerhat.motor.one.backward(100)
+    sleep(0.1)
+    explorerhat.motor.one.stop()
+
+while True:
+    if(explorerhat.input.one.read()):
+        BeatLeftStick()
+        
+	sleep(0.46875)
+        BeatRightStick()
+        
+	sleep(0.15625)
+        BeatLeftStick()
+        
+	sleep(0.3125)
+        BeatRightStick()
+        
+	sleep(0.3125)
+                
+    
